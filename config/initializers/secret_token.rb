@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-CitiZens::Application.config.secret_key_base = '79d8b6defd6a4ae5e43a9e7ce7ebc477eb1cb6280d1f7d97d33821d2eced65b35b0018d156b43f098f331e6e83d3861b8e4783a0dd5cbb4f2ff664f1deeef946'
+CitiZens::Application.config.secret_key_base = '9f7c3880dc4248e845ed6f28759f9ae712123f095dfd3c2185ce2ed6cff4f1b5ccbfaf99bbe0891000b4386e2c2847de397827f4a745caabc8f5f33fc0f93add'
