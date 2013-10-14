@@ -279,6 +279,9 @@ body.color-6 #footer {
 	position: fixed;
 	height: 50px;
 }
+#home {
+	padding-top: 80px;
+}
 #nav-button{
 	display: none;
 }
